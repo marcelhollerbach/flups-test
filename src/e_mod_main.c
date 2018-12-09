@@ -2,7 +2,7 @@
 #include "../config.h"
 
 #warning "Safety first"
-
+#warning "In a"
 /* module setup */
 E_API E_Module_Api e_modapi =
 {
