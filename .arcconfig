@@ -1,0 +1,7 @@
+{
+  "project_id" : "flups-test",
+  "projects" : "flups-test",
+  "conduit_uri" : "http://work.lan/",
+  "phabricator.uri" : "http://work.lan/",
+  "repository.callsign" : "FLUPSTEST"
+}
