@@ -1,5 +1,8 @@
 #include "e.h"
 #include "../config.h"
+
+#warning "Safety first"
+
 /* module setup */
 E_API E_Module_Api e_modapi =
 {
